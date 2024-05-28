@@ -1,3 +1,4 @@
 git push means I am pushing my files to my git repo.
 git pull: allows you to merge changes from a file onto your remoter repository. 
 git init: creates a repo.
+git clone: copies the latest version of a repository into your computer.
