@@ -1,1 +1,2 @@
 git push means I am pushing my files to my git repo.
+git pull: any changes made onto a file it can be merged onto the remote repository to be updated
